@@ -9,3 +9,23 @@ vlfeat*
 
 !.gitignore
 !*.ipynb
+
+A2/cifar-10-batches-py/
+
+A2/double_moon_train1000\.mat\.1
+
+A2/double_moon_train1000\.mat\.2
+
+A2/double_moon_train1000\.mat\.3
+
+A2/double_moon_train1000\.mat\.4
+
+A2/double_moon_val1000\.mat\.1
+
+A2/double_moon_val1000\.mat\.2
+
+A2/double_moon_val1000\.mat\.3
+
+A2/double_moon_val1000\.mat\.4
+
+A2/peppers\.png
